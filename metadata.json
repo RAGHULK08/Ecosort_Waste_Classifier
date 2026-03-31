@@ -1,0 +1,8 @@
+{
+  "name": "Eco Sort",
+  "description": "An AI-powered application to classify waste from images. It identifies items, suggests bin colors based on your region, provides disposal instructions, and offers eco-tips.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
